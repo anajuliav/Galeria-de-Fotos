@@ -1,3 +1,3 @@
 # Galeria-de-Fotos
 
-Clique Aqui! https://leafy-pixie-d61027.netlify.app para ver o Site 
+Clique aqui para ver o Site! https://leafy-pixie-d61027.netlify.app 
